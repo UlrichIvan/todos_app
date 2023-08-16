@@ -20,7 +20,9 @@
 
 ### 2. `npm run db` (Run Local Server)
 
-### 3. `npm run tests` (Run units tests for application)
+# Run Unit tests
+
+### 1. `npm run tests` (Run units tests for application)
 
 # use application
 
