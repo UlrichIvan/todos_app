@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "michel",
+      "isauth": true,
+      "id": "22f4f3df-74c3-4e5b-b4c4-20c62cbead5e",
+      "todos": [
+        {
+          "id": "72fa19f7-5a96-41ed-8d58-04e1a385f406",
+          "name": "probabilités",
+          "completed": false,
+          "at": 1692227538935
+        },
+        {
+          "id": "ed7e64ec-f566-44b2-a3f5-70295ba647c7",
+          "name": "droit",
+          "completed": false,
+          "at": 1692228952939
+        }
+      ]
+    }
+  ]
+}
